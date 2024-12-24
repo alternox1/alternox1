@@ -12,7 +12,7 @@ I'm a cybersecurity enthusiast currently pursuing a Master's degree in Network S
 
 Feel free to connect with me or explore my repositories to see my projects and contributions in the field of cybersecurity.
 
-> **Fun Fact**: In times of conflict, humor often becomes a shield, allowing individuals to confront the harsh realities of war. As noted in a study on humor during wartime, "There is nothing funny about war and suffering, but if we laugh at some aspects of the horrors of war, we regain a new perspective of human existence." :contentReference[oaicite:0]{index=0}
+> **Fun Fact**: In times of conflict, humor often becomes a shield, allowing individuals to confront the harsh realities of war. As noted in a study on humor during wartime, "There is nothing funny about war and suffering, but if we laugh at some aspects of the horrors of war, we regain a new perspective of human existence."
 
 <!---
 alternox1/alternox1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
